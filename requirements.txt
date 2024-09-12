@@ -1,0 +1,4 @@
+django
+djangorestframework
+PyPDF2
+nltk
